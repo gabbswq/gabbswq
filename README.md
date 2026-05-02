@@ -1,7 +1,8 @@
 <h1 align="center">Gabriel Diniz</h1>
-<p align="center"><em>Programador em construção · Curitiba, Brasil 🇧🇷</em></p>
+<p align="center"><em>Construindo em público · Bitcoin · Agentes de IA · Curitiba 🇧🇷</em></p>
 
 <p align="center">
+  <a href="https://x.com/gabbsweb3"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square" alt="X (Twitter)" /></a>
   <a href="https://linkedin.com/in/gabbswq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
   <a href="mailto:gabbsdiniz.business@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=gabbswq&label=Visitas&color=blue&style=flat-square" alt="Visitas no perfil" />
