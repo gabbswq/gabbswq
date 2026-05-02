@@ -1,14 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:f7931a&height=180&section=header" width="100%" />
 
 <div align="center">
-  <h1>Hello! I'm Gabriel 👋</h1>
-  <h3>Engenheiro de Software em formação · Brasil 🇧🇷</h3>
 
-  <p>
-    <a href="https://x.com/gabbsweb3"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square" alt="X" /></a>
-    <a href="https://linkedin.com/in/gabbswq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
-    <a href="mailto:gabbsdiniz@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?logo=protonmail&logoColor=white&style=flat-square" alt="ProtonMail" /></a>
-  </p>
+<a href="https://x.com/gabbsweb3">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=F7931A&center=true&vCenter=true&width=700&lines=Hello%21+I%27m+Gabriel+%F0%9F%91%8B;Engenheiro+de+Software+em+forma%C3%A7%C3%A3o;Bitcoin+%26+Agentes+de+IA+%F0%9F%9A%80;Construindo+em+p%C3%BAblico+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing animation" />
+</a>
+
+<p>
+  <a href="https://x.com/gabbsweb3"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square" alt="X" /></a>
+  <a href="https://linkedin.com/in/gabbswq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:gabbsdiniz@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?logo=protonmail&logoColor=white&style=flat-square" alt="ProtonMail" /></a>
+</p>
+
 </div>
 
 ---
@@ -27,7 +30,7 @@ Apaixonado por Bitcoin, tecnologia e construção em público. Estou no início 
 
 ### 🛠️ Tech Stack
 
-<img align="right" alt="Bitcoin" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/240px-Bitcoin.svg.png" />
+<img align="right" alt="Bitcoin" width="200" src="https://cdn.jsdelivr.net/npm/cryptocurrency-icons@latest/svg/color/btc.svg" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
