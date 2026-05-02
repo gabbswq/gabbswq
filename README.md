@@ -4,8 +4,7 @@
 <p align="center">
   <a href="https://x.com/gabbsweb3"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat-square" alt="X (Twitter)" /></a>
   <a href="https://linkedin.com/in/gabbswq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
-  <a href="mailto:gabbsdiniz.business@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=gabbswq&label=Visitas&color=blue&style=flat-square" alt="Visitas no perfil" />
+  <a href="mailto:gabbsdiniz@proton.me"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
 </p>
 
 ---
@@ -31,19 +30,6 @@ Foco atual: **automação, agentes de IA e ferramentas que resolvem problemas re
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-
----
-
-### 📈 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabbswq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbswq&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabbswq&theme=github-dark&hide_border=true" alt="Sequência de commits" />
-</p>
 
 ---
 
