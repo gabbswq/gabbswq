@@ -3,16 +3,16 @@
 <div align="center">
 
   <a href="https://gabbswq.github.io">
-    <img src="https://img.shields.io/badge/◆%20Portfolio-gabbswq.github.io-F7931A?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/%E2%97%86_Portfolio-F7931A?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
   </a>
 
   <br /><br />
 
   <a href="https://x.com/gabbsweb3">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&duration=3500&pause=1500&color=ffffff&center=true&vCenter=true&width=750&letterSpacing=-2&lines=Hi%2C+I'm+Gabriel+%F0%9F%91%8B;Welcome+to+my+profile" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=38&duration=3500&pause=1500&color=ffffff&center=true&vCenter=true&width=750&letterSpacing=-1&lines=Hi%2C+I'm+Gabriel;Welcome+to+my+profile" alt="Typing animation" />
   </a>
 
-  <p><sub>From Brazil 🇧🇷 · Building things in public</sub></p>
+  <br />
 
   <p>
     <a href="https://x.com/gabbsweb3">
