@@ -2,17 +2,9 @@
 
 <div align="center">
 
-  <a href="https://gabbswq.github.io">
-    <img src="https://img.shields.io/badge/%E2%97%86_Portfolio-F7931A?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
-  </a>
-
-  <br /><br />
-
   <a href="https://x.com/gabbsweb3">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=38&duration=3500&pause=1500&color=ffffff&center=true&vCenter=true&width=750&letterSpacing=-1&lines=Hi%2C+I'm+Gabriel;Welcome+to+my+profile" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=800&size=40&duration=3500&pause=1500&color=ffffff&center=true&vCenter=true&width=750&letterSpacing=-2&lines=Hi%2C+I'm+Gabriel;Welcome+to+my+profile" alt="Typing animation" />
   </a>
-
-  <br />
 
   <p>
     <a href="https://x.com/gabbsweb3">
@@ -25,6 +17,10 @@
       <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?logo=protonmail&logoColor=white&style=for-the-badge" alt="ProtonMail" />
     </a>
   </p>
+
+  <a href="https://gabbswq.github.io">
+    <img src="https://img.shields.io/badge/Visit_my_portfolio-F7931A?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117" alt="Visit my portfolio" />
+  </a>
 
 </div>
 
