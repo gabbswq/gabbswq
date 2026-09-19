@@ -14,6 +14,8 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,65:17120b,100:f7931a&height=120&section=header" width="100%" alt="" />
+
 ## Stack
 
 ### Código e produto
