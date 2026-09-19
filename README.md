@@ -38,7 +38,7 @@
 
   <br /><br />
 
-  <sub>Construído por Gabriel Diniz · Curitiba, Brasil · © 2026</sub>
+  <sub>© 2026 Gabriel Diniz. Todos os direitos reservados.</sub>
 
 </div>
 
