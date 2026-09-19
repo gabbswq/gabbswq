@@ -14,25 +14,6 @@
 
 ---
 
-## Sobre
-
-Sou Gabriel Diniz, desenvolvedor júnior construindo em público. Meu foco está na interseção entre **software, automação, inteligência artificial e produtos digitais**.
-
-Atualmente estou estruturando o **Gabbs Product Factory**, um fluxo pessoal para transformar ideias em sistemas usando VS Code, Codex, GitHub e ciclos curtos de revisão.
-
-```text
-ideia -> contexto -> código -> evidência -> auditoria -> próxima iteração
-```
-
-## O que estou construindo
-
-| Área | Na prática |
-| --- | --- |
-| Software | Interfaces e aplicações web responsivas |
-| Automação | Workflows, integrações e agentes para reduzir trabalho repetitivo |
-| IA aplicada | Prompting, revisão de contexto e fluxos humano + máquina |
-| Web3 | Estudos, ferramentas e produtos em torno de redes e ativos digitais |
-
 ## Stack
 
 ### Código e produto
@@ -47,18 +28,11 @@ ideia -> contexto -> código -> evidência -> auditoria -> próxima iteração
 
 `GSAP` · `n8n` · `OpenAI Codex` · `Claude Code` · `WSL` · `tmux` · `Stripe` · `Figma`
 
-## Projetos em destaque
-
-- [**Gabbs Product Factory**](https://github.com/gabbswq/gabbs-product-factory) — base de trabalho para construir e revisar produtos com agentes de IA.
-- [**Portfólio**](https://github.com/gabbswq/gabbswq.github.io) — página pessoal com GSAP, ScrollTrigger, parallax e design responsivo.
-
-## Agora
-
-`Junior Software Developer` · `Building in public` · `Learning by shipping`
+---
 
 <div align="center">
 
-  <a href="https://github.com/gabbswq?tab=repositories">Ver todos os repositórios ↗</a>
+  <a href="https://github.com/gabbswq?tab=repositories">Ver meus repositórios ↗</a>
 
   <br /><br />
 
