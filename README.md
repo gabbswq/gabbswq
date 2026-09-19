@@ -39,3 +39,5 @@
   <sub>Construído por Gabriel Diniz · Curitiba, Brasil · © 2026</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7931a,65:17120b,100:050505&height=120&section=footer" width="100%" alt="" />
